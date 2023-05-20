@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "I am the best engineer",
+      "author": "Sarthak Chaudhary",
+      "id": 1
+    },
+    {
+      "title": "The Age Of AI",
+      "body": "I am the best AI engineer",
+      "author": "Siddharth Chaudhary",
+      "id": 2
+    },
+    {
+      "title": "The Economy OF Nepal",
+      "body": "I am an Economist",
+      "author": "Srijana Basyal",
+      "id": 3
+    },
+    {
+      "title": "jhf",
+      "body": "jhgjhg",
+      "author": "jgfjgjhlh",
+      "id": 4
+    },
+    {
+      "title": "hjh",
+      "body": "hhhh",
+      "author": "hhh",
+      "id": 5
+    }
+  ]
+}
